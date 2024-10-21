@@ -1,7 +1,7 @@
-# lzstring 0.1.2
+# lzstring 0.1.3
 
-# lzstring 0.1.1
+* Merged bug fix for Invalid Byte Order Mark - https://github.com/parmsam/lzstring-r/pull/26
 
-# lzstring 0.1.0
+# lzstring 0.1.2.9000
 
-* Initial CRAN submission.
+* Added a `NEWS.md` file to track changes to the package.
